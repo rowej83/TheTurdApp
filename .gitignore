@@ -1,0 +1,111 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+
+# Bundle artifact
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
+android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+.prettierrc.js
+.gitattributes
+.flowconfig
+.eslintrc.js
+ios/TheTurdApp.xcodeproj/xcshareddata/xcschemes/TheTurdApp-tvOS.xcscheme
+ios/TheTurdApp.xcodeproj/project.pbxproj
+ios/TheTurdApp-tvOSTests/Info.plist
+ios/TheTurdApp-tvOS/Info.plist
+ios/Podfile
+android/gradle/wrapper/gradle-wrapper.jar
+android/app/build_defs.bzl
+android/app/build.gradle
+android/app/_BUCK
+__tests__/App-test.js
+.watchmanconfig
+package-lock.json
+metro.config.js
+android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+android/settings.gradle
+android/gradlew.bat
+android/gradlew
+android/gradle/wrapper/gradle-wrapper.properties
+android/app/proguard-rules.pro
+android/app/debug.keystore
+ios/TheTurdApp/Images.xcassets/AppIcon.appiconset/Contents.json
+ios/TheTurdApp/Base.lproj/LaunchScreen.xib
+ios/TheTurdApp/AppDelegate.m
+ios/TheTurdApp/AppDelegate.h
+ios/TheTurdApp.xcodeproj/xcshareddata/xcschemes/TheTurdApp.xcscheme
+babel.config.js
+android/app/src/main/java/com/theturdapp/MainActivity.java
+android/app/src/main/AndroidManifest.xml
+ios/TheTurdAppTests/TheTurdAppTests.m
+ios/TheTurdAppTests/Info.plist
+ios/TheTurdApp/main.m
+ios/TheTurdApp/Info.plist
+android/gradle.properties
+android/build.gradle
+android/app/src/main/res/values/styles.xml
+android/app/src/main/res/values/strings.xml
+android/app/src/main/java/com/theturdapp/MainApplication.java
+.buckconfig
+ios/TheTurdApp/Images.xcassets/Contents.json

@@ -1,0 +1,3 @@
+The Turd App - React Native with hooks
+
+A joke app I made while learning React Native. The idea is you can select 1 of 3 people (my daugther or 1 of my nieces) and it will show a very silly face of theirs and if you press on their face it will play 1 of 26 different fart noises randomly. Also, it will animate (rotate and scale) during the duration of the sound. I used a package called "react-native-sound" in order to play the sounds. I used React Natives Animated.View for the animation.
